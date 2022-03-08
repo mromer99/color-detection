@@ -8,6 +8,7 @@ This is a simple color Detection app:
 4. If you want to quit, press on "q".
   
   
+ <img src="Screenshots/image1.png" width="300"> 
   
   
   
